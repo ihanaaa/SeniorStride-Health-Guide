@@ -147,12 +147,24 @@ const MainPage = () => {
           <br />
           <br />
           <h2>Design Ideas</h2>
-          <p>Insert text here</p>
           <h3>Design Inpiration</h3>
-          <p>Insert text here</p>
+          <p>
+            The vibrant colors of oranges and pinks, along with the 70s-inspired
+            design, are carefully chosen to make our app more appealing and
+            accessible to older users. We believe that these design elements
+            play a crucial role in improving visibility and readability,
+            especially for those with age-related vision changes. Additionally,
+            the nostalgic 70s vibe creates a sense of comfort and familiarity,
+            which can encourage users to engage with the app more actively.
+            Ultimately, by incorporating these design choices, we aim to create
+            a welcoming and inclusive environment that empowers older adults to
+            take charge of their health journey with ease and confidence.
+          </p><p>Here are some inspiration</p>
           <h3>Colour Palette</h3>
           <p>Insert text here</p>
+
           <h3>Typography</h3>
+
           <h2>Sketches</h2>
           <p>Insert text here</p>
           <h2>Mockup</h2>
