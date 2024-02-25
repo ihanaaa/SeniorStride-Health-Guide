@@ -12,6 +12,7 @@ import inspo2 from "./images/inspo2.jpg";
 import inspo3 from "./images/inspo3.jpg";
 import palette from "./images/Colour-Palette.png";
 import typography from "./images/lato-typography.png";
+import logo from "./images/Logo.png";
 
 const MainPage = () => {
   return (
@@ -199,20 +200,34 @@ const MainPage = () => {
             clearly to elderly users.
           </p>
 
-          <h2>Sketches</h2>
+          <h3>App Logo</h3>
+          <p>
+            The app logo features a running man in a warm, energetic tone,
+            symbolizing vitality and activity, while the finish line is depicted
+            in white, representing achievement. Against the vibrant orange
+            background, the logo stands out, conveying empowerment and progress.
+            Overall, it effectively represents the app's core values of vitality
+            and achievement, making it memorable and inviting for users.
+          </p>
+          <img className="inspo" src={logo} alt="App Logo" />
+
+          <h2>Sketches and Mockup</h2>
           <p>Insert text here</p>
-          <h2>Mockup</h2>
-          <p>Insert text here</p>
+
           <h2>Final Design</h2>
           <p>Insert text here</p>
+
           <h2>Onboarding</h2>
           <p>Insert text here</p>
+
           <h2>Demo</h2>
           <p>Insert text here</p>
+
           <h2>Conclusion</h2>
           <p>Insert text here</p>
+
           <h2>References</h2>
-          <p>Insert text here</p>
+          {/* <Link  /> */}
         </div>
       </div>
     </div>
