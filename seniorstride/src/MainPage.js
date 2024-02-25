@@ -227,7 +227,19 @@ const MainPage = () => {
           <p>Insert text here</p>
 
           <h2>References</h2>
-          {/* <Link  /> */}
+
+          <a href="https://www.cdc.gov/physicalactivity/basics/older_adults/index.htm">
+            Article 1
+          </a>
+          <br />
+          <br />
+          <a href="https://blog.nasm.org/uncategorized/are-older-adults-indifferent-scared-and-reluctant-to-exercise">
+            Article 2
+          </a>
+          <br />
+          <br />
+          <br />
+          <br />
         </div>
       </div>
     </div>

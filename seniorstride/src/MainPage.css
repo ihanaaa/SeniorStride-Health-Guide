@@ -48,6 +48,10 @@ b {
 .inspo {
   width: 100%;
 }
+a{
+  font-size: 115%;
+  color: black;
+}
 
 @media screen and (max-width: 750px) {
   .content {
