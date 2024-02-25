@@ -13,6 +13,11 @@ import inspo3 from "./images/inspo3.jpg";
 import palette from "./images/Colour-Palette.png";
 import typography from "./images/lato-typography.png";
 import logo from "./images/Logo.png";
+import survey1 from "./images/surveyq1.png";
+import survey2 from "./images/surveyq2.png";
+import survey3 from "./images/surveyq3.png";
+import survey4 from "./images/surveyq4.png";
+import survey5 from "./images/surveyq5.png";
 
 const MainPage = () => {
   return (
@@ -67,7 +72,59 @@ const MainPage = () => {
           </p>
           <h2>Research</h2>
           <h3>Survey</h3>
-          <p>Insert text here</p>
+          <p>
+            Surveys play a crucial role in understanding the needs and
+            preferences of the elderly community, informing the development of
+            our SeniorStride - Health Guide App. By gathering insights directly
+            from seniors, we can tailor our app to address their unique physical
+            and mental health challenges effectively. Survey results help us
+            prioritize features and interventions based on the most pressing
+            concerns expressed by older adults, ensuring that our app meets
+            their needs comprehensively and improves their overall health and
+            well-being.
+          </p>
+
+          <img className="inspo" src={survey1} alt="Survey answer 1" />
+          <p>
+            While many respondents engage in physical activity regularly, a
+            significant portion exercise infrequently or not at all,
+            highlighting potential gaps in their fitness routines.
+          </p>
+          <img className="inspo" src={survey2} alt="Survey answer 2" />
+          <p>
+            The majority of respondents have encountered barriers to accessing
+            resources, indicating a need for improved support services.
+          </p>
+          <img className="inspo" src={survey3} alt="Survey answer 3" />
+          <p>
+            A large proportion of respondents value personalized exercise
+            programs, highlighting the importance of tailored interventions.
+          </p>
+          <img className="inspo" src={survey4} alt="Survey answer 4" />
+          <p>
+            Most respondents recognize the benefits of physical activity for
+            mental well-being, emphasizing the need for comprehensive wellness
+            programs.
+          </p>
+          <img className="inspo" src={survey5} alt="Survey answer 5" />
+          <p>
+            While many are interested in using a health app, some are unsure or
+            uninterested, suggesting the importance of addressing potential
+            barriers to adoption.
+          </p>
+
+          <p>
+            In summary, the survey underscores the varied needs and preferences
+            of older adults regarding health support. While there's a strong
+            desire for personalized exercise programs and recognition of the
+            benefits of physical activity, challenges in accessing resources and
+            differing levels of interest in health apps suggest the importance
+            of tailored interventions and outreach efforts. SeniorStride -
+            Health Guide App aims to meet these needs effectively, offering
+            personalized support to empower older adults in their health
+            journey.
+          </p>
+
           <h3>Similar Apps</h3>
           <p>Insert text here</p>
           <h2>Personas</h2>
