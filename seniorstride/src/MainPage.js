@@ -7,6 +7,11 @@ import GloriaJourney from "./images/Gloria-Journey-Map.png";
 import DavidJourney from "./images/David-Journey-Map.png";
 import TheresaJourney from "./images/Theresa-Journey-Map.png";
 import banner from "./images/banner.png";
+import inspo1 from "./images/inspo1.jpg";
+import inspo2 from "./images/inspo2.jpg";
+import inspo3 from "./images/inspo3.jpg";
+import palette from "./images/Colour-Palette.png";
+import typography from "./images/lato-typography.png";
 
 const MainPage = () => {
   return (
@@ -159,11 +164,40 @@ const MainPage = () => {
             Ultimately, by incorporating these design choices, we aim to create
             a welcoming and inclusive environment that empowers older adults to
             take charge of their health journey with ease and confidence.
-          </p><p>Here are some inspiration</p>
+          </p>
+          <p>Some examples that inspired us: </p>
+          <img className="inspo" src={inspo1} alt={inspo1} />
+          <img className="inspo" src={inspo2} alt={inspo2} />
+          <img className="inspo" src={inspo3} alt={inspo3} />
+
           <h3>Colour Palette</h3>
-          <p>Insert text here</p>
+          <p>
+            The color palette, featuring shades of deep blue, soft pink, vibrant
+            orange, and pale beige, was carefully chosen to create a visually
+            appealing and user-friendly interface. These colors evoke a sense of
+            calmness, warmth, and energy while ensuring contrast and
+            readability. Overall, they contribute to a harmonious and engaging
+            experience, reinforcing our app's message of inclusivity and
+            empowerment for users of all ages.
+          </p>
+          <img className="inspo" src={palette} alt="Colour Palette" />
 
           <h3>Typography</h3>
+          <p>
+            When designing apps for the elderly demographic, prioritizing
+            readability and clarity in typography is essential. However, it's
+            equally important to ensure an aesthetically pleasing appearance.
+            That's why we've selected the Lato font which perfectly balances
+            legibility and visual appeal.
+          </p>
+          <img className="inspo" src={typography} alt="Lato Typography" />
+          <p>
+            Lato is a humanist sans-serif font that offers excellent legibility
+            in both digital and print environments, making it a popular choice
+            for web and app design. Lato gives a friendly and approachable
+            design which makes it well-suited for communicating information
+            clearly to elderly users.
+          </p>
 
           <h2>Sketches</h2>
           <p>Insert text here</p>
