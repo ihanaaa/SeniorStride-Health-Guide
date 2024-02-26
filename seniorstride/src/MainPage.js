@@ -20,6 +20,9 @@ import survey4 from "./images/surveyq4.png";
 import survey5 from "./images/surveyq5.png";
 import mockup1 from "./images/mockup 1.png";
 import mockup2 from "./images/mockup 2.png";
+import onboarding from "./images/onboarding.png";
+import pages1 from "./images/pages1.png";
+import pages2 from "./images/pages2.png";
 
 const MainPage = () => {
   return (
@@ -323,25 +326,49 @@ const MainPage = () => {
           <br />
           <div className="box">
             <h2>Final Design</h2>
-            <p>Insert text here</p>
             <h3>Onboarding Pages</h3>
-            <p>Insert text here</p>
-            <h3>Home Page</h3>
-            <p>Insert text here</p>
-            <h3>Exercise Library</h3>
-            <p>Insert text here</p>
-            <h3>Progress Tracking</h3>
-            <p>Insert text here</p>
-            <h3>Community Support</h3>
-            <p>Insert text here</p>
+            <p>
+              The onboarding process in SeniorStride is essential as it serves
+              as a crucial introduction for users to familiarize themselves with
+              the app's features and functionalities. It provides users with an
+              overview of what to expect from the app, guiding them through key
+              features and encouraging them to create a profile. This initial
+              interaction sets the tone for the user's experience and helps them
+              feel confident and informed as they begin their health journey
+              with SeniorStride.
+            </p>
+            <img className="inspo" src={onboarding} alt="Onboarding" />
+          </div>
+          <br />
+          <br />
+          <div className="box">
+            <h3>Pages</h3>
+            <img className="inspo" src={pages1} alt="Pages 1" />
+            <br />
+            <br />
+            <img className="inspo" src={pages2} alt="Pages 2" />
             <h3>Demo</h3>
-            <p>Insert text here</p>
           </div>
           <br />
           <br />
           <div className="box">
             <h2>Conclusion</h2>
-            <p>Insert text here</p>
+            <p>
+              SeniorStride stands as a revolutionary solution for older adults,
+              offering a holistic platform to support their physical and mental
+              well-being. Informed by extensive user research and surveys,
+              SeniorStride provides personalized care through intuitive features
+              like personalized exercise programs, progress tracking, community
+              support, and comprehensive resources. The intuitive UI/UX ensures
+              accessibility and engagement, empowering users on their health
+              journey. By fostering connections and empowering users to take
+              control of their health, SeniorStride is driving positive change
+              in the lives of older adults, inspiring confidence, vitality, and
+              joy. As we continue to innovate and evolve, SeniorStride remains
+              committed to guiding older adults towards a brighter, healthier
+              future. Join us on this journey towards wellness with
+              SeniorStride.
+            </p>
           </div>
           <br />
           <br />
