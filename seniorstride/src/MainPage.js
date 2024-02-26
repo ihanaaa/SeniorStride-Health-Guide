@@ -300,38 +300,52 @@ const MainPage = () => {
             </p>
             <img className="inspo" src={logo} alt="App Logo" />
           </div>
+          <br />
+          <br />
           <div className="box">
             <h2>Mockup</h2>
             <img className="inspo" src={mockup1} alt="Mockup 1" />
             <img className="inspo" src={mockup2} alt="Mockup 2" />
           </div>
-          <h2>Final Design</h2>
-          <p>Insert text here</p>
-          <h3>Onboarding Pages</h3>
-          <p>Insert text here</p>
-          <h3>Home Page</h3>
-          <p>Insert text here</p>
-          <h3>Exercise Library</h3>
-          <p>Insert text here</p>
-          <h3>Progress Tracking</h3>
-          <p>Insert text here</p>
-          <h3>Community Support</h3>
-          <p>Insert text here</p>
-          <h3>Demo</h3>
-          <p>Insert text here</p>
-          <h2>Conclusion</h2>
-          <p>Insert text here</p>
-          <h2>References</h2>
-          <a href="https://www.cdc.gov/physicalactivity/basics/older_adults/index.htm">
-            Article 1
-          </a>
           <br />
           <br />
-          <a href="https://blog.nasm.org/uncategorized/are-older-adults-indifferent-scared-and-reluctant-to-exercise">
-            Article 2
-          </a>
+          <div className="box">
+            <h2>Final Design</h2>
+            <p>Insert text here</p>
+            <h3>Onboarding Pages</h3>
+            <p>Insert text here</p>
+            <h3>Home Page</h3>
+            <p>Insert text here</p>
+            <h3>Exercise Library</h3>
+            <p>Insert text here</p>
+            <h3>Progress Tracking</h3>
+            <p>Insert text here</p>
+            <h3>Community Support</h3>
+            <p>Insert text here</p>
+            <h3>Demo</h3>
+            <p>Insert text here</p>
+          </div>
           <br />
           <br />
+          <div className="box">
+            <h2>Conclusion</h2>
+            <p>Insert text here</p>
+          </div>
+          <br />
+          <br />
+          <div className="box">
+            <h2>References</h2>
+            <a href="https://www.cdc.gov/physicalactivity/basics/older_adults/index.htm">
+              Article 1
+            </a>
+            <br />
+            <br />
+            <a href="https://blog.nasm.org/uncategorized/are-older-adults-indifferent-scared-and-reluctant-to-exercise">
+              Article 2
+            </a>
+            <br />
+            <br />
+          </div>
           <br />
           <br />
         </div>
