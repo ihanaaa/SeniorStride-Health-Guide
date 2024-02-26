@@ -23,6 +23,7 @@ import mockup2 from "./images/mockup 2.png";
 import onboarding from "./images/onboarding.png";
 import pages1 from "./images/pages1.png";
 import pages2 from "./images/pages2.png";
+import pages3 from "./images/pages3.png";
 
 const MainPage = () => {
   return (
@@ -347,12 +348,25 @@ const MainPage = () => {
             <br />
             <br />
             <img className="inspo" src={pages2} alt="Pages 2" />
+            <br />
+            <br />
+            <img className="inspo" src={pages3} alt="Pages 3" />
+          </div>
+          <br />
+          <br />
+          <div className="box">
             <h3>Demo</h3>
           </div>
           <br />
           <br />
           <div>
-          <iframe style={{border: '1px solid rgba(0, 0, 0, 0.1)'}}  width="800" height="450" src='https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FdVrWkDQchwLKJo6wVvIsPA%2FOnboarding%3Ftype%3Ddesign%26node-id%3D17-135%26t%3DXHsxzj9J9FmArPPY-1%26scaling%3Dscale-down%26page-id%3D0%253A1%26mode%3Ddesign' allowfullscreen></iframe>
+            <iframe className="prototype"
+              style={{ border: "1px solid rgba(0, 0, 0, 0.1)" }}
+              width="800"
+              height="450"
+              src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FdVrWkDQchwLKJo6wVvIsPA%2FOnboarding%3Ftype%3Ddesign%26node-id%3D17-135%26t%3DXHsxzj9J9FmArPPY-1%26scaling%3Dscale-down%26page-id%3D0%253A1%26mode%3Ddesign"
+              allowfullscreen
+            ></iframe>
           </div>
           <div className="box">
             <h2>Conclusion</h2>
