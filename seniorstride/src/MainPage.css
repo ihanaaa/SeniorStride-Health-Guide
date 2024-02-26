@@ -35,6 +35,7 @@ b {
 .content {
   font-size: 100%;
   width: 50%;
+  background-color: #fefbf4;
 }
 
 .container {
@@ -42,6 +43,22 @@ b {
   height: 100%;
   display: flex;
   justify-content: center;
+  background-color: #fefbf4;
+  padding-top: 15px;
+}
+.space {
+  padding-bottom: 5px;
+  background-color: #fefbf4;
+}
+
+.box {
+  background-color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 10px;
+  box-shadow: 6px 6px #fff4da, 1px 1px #fff4da inset;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .personas {
