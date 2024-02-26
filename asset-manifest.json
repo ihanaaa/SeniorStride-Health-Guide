@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/SeniorStride-Health-Guide/static/css/main.2804e010.css",
+    "main.js": "/SeniorStride-Health-Guide/static/js/main.dda2d6f5.js",
+    "static/js/453.24d4b70a.chunk.js": "/SeniorStride-Health-Guide/static/js/453.24d4b70a.chunk.js",
+    "static/media/Theresa-Persona.png": "/SeniorStride-Health-Guide/static/media/Theresa-Persona.aa0128b066f548f0be98.png",
+    "static/media/Gloria-Persona.png": "/SeniorStride-Health-Guide/static/media/Gloria-Persona.99225b128c573743042d.png",
+    "static/media/mockup 1.png": "/SeniorStride-Health-Guide/static/media/mockup 1.4293de00e2397de31bdb.png",
+    "static/media/David-Persona.png": "/SeniorStride-Health-Guide/static/media/David-Persona.051e81e0c926c7abece1.png",
+    "static/media/mockup 2.png": "/SeniorStride-Health-Guide/static/media/mockup 2.7ce13ab41119a8c2147d.png",
+    "static/media/Theresa-Journey-Map.png": "/SeniorStride-Health-Guide/static/media/Theresa-Journey-Map.06589d402a2b441b0fa3.png",
+    "static/media/onboarding.png": "/SeniorStride-Health-Guide/static/media/onboarding.71e2422dc789a36f4014.png",
+    "static/media/Gloria-Journey-Map.png": "/SeniorStride-Health-Guide/static/media/Gloria-Journey-Map.8501a86686095b0b88d9.png",
+    "static/media/David-Journey-Map.png": "/SeniorStride-Health-Guide/static/media/David-Journey-Map.b6ad5ee24f93b30a02d2.png",
+    "static/media/lato-typography.png": "/SeniorStride-Health-Guide/static/media/lato-typography.c79375d85afbbd68cdfd.png",
+    "static/media/pages1.png": "/SeniorStride-Health-Guide/static/media/pages1.2a54a16c7b5fabfbb3a3.png",
+    "static/media/pages2.png": "/SeniorStride-Health-Guide/static/media/pages2.d79b1ebb6e6a6564f23c.png",
+    "static/media/banner.png": "/SeniorStride-Health-Guide/static/media/banner.aed4323d16508eea36f5.png",
+    "static/media/surveyq5.png": "/SeniorStride-Health-Guide/static/media/surveyq5.3c06cccd1939c39b48d8.png",
+    "static/media/surveyq1.png": "/SeniorStride-Health-Guide/static/media/surveyq1.8861230ef26ef6186371.png",
+    "static/media/surveyq3.png": "/SeniorStride-Health-Guide/static/media/surveyq3.fff7801bd61712aaed1e.png",
+    "static/media/surveyq4.png": "/SeniorStride-Health-Guide/static/media/surveyq4.f5cf696203968a939fd3.png",
+    "static/media/surveyq2.png": "/SeniorStride-Health-Guide/static/media/surveyq2.cfc53d0a4349dac87866.png",
+    "static/media/inspo1.jpg": "/SeniorStride-Health-Guide/static/media/inspo1.afd7ea18a49ac4dd5c23.jpg",
+    "static/media/inspo3.jpg": "/SeniorStride-Health-Guide/static/media/inspo3.c80e1f709e3820e265ba.jpg",
+    "static/media/inspo2.jpg": "/SeniorStride-Health-Guide/static/media/inspo2.cf82ad462ecee117410a.jpg",
+    "static/media/Colour-Palette.png": "/SeniorStride-Health-Guide/static/media/Colour-Palette.e62d8f8ecb1e656e6f18.png",
+    "static/media/Logo.png": "/SeniorStride-Health-Guide/static/media/Logo.dc1d9840bc0808390940.png",
+    "index.html": "/SeniorStride-Health-Guide/index.html",
+    "main.2804e010.css.map": "/SeniorStride-Health-Guide/static/css/main.2804e010.css.map",
+    "main.dda2d6f5.js.map": "/SeniorStride-Health-Guide/static/js/main.dda2d6f5.js.map",
+    "453.24d4b70a.chunk.js.map": "/SeniorStride-Health-Guide/static/js/453.24d4b70a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2804e010.css",
+    "static/js/main.dda2d6f5.js"
+  ]
+}
