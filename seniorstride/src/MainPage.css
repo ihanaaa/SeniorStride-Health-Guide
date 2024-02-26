@@ -68,7 +68,7 @@ b {
 }
 
 .prototype{
-  margin-left: -2%;
+  display: flex;
 }
 
 .inspo {

@@ -359,8 +359,9 @@ const MainPage = () => {
           </div>
           <br />
           <br />
-          <div>
-            <iframe className="prototype"
+          <div className="prototype">
+            <iframe
+              title="prototype"
               style={{ border: "1px solid rgba(0, 0, 0, 0.1)" }}
               width="800"
               height="450"
@@ -368,6 +369,8 @@ const MainPage = () => {
               allowfullscreen
             ></iframe>
           </div>
+          <br />
+          <br />
           <div className="box">
             <h2>Conclusion</h2>
             <p>
