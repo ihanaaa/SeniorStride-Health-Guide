@@ -4,8 +4,9 @@
 }
 
 body {
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: Lato;
 }
+
 h1 {
   font-size: 300%;
   margin-bottom: 0%;
@@ -30,6 +31,8 @@ b {
 .content {
   font-size: 100%;
   width: 50%;
+
+  /* background-color: #FAF5EA; */
 }
 
 .container {
@@ -48,7 +51,7 @@ b {
 .inspo {
   width: 100%;
 }
-a{
+a {
   font-size: 115%;
   color: black;
 }

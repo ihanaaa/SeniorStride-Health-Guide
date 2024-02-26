@@ -18,15 +18,17 @@ import survey2 from "./images/surveyq2.png";
 import survey3 from "./images/surveyq3.png";
 import survey4 from "./images/surveyq4.png";
 import survey5 from "./images/surveyq5.png";
+import mockup1 from "./images/mockup 1.png";
+import mockup2 from "./images/mockup 2.png";
 
 const MainPage = () => {
   return (
     <div>
       <img className="image" src={banner} alt="banner" />
-
       <h1>SeniorStride - Health Guide App</h1>
       <p className="name">By Ihana Fahmy, Muiz Madadi, Shamma Sarah Markis</p>
       <br />
+
       <div className="container">
         <div className="content">
           <h2>Introduction</h2>
@@ -70,6 +72,7 @@ const MainPage = () => {
             and a healthier lifestyle, all accessible at their fingertips on
             their smartphones.
           </p>
+
           <h2>Research</h2>
           <h3>Survey</h3>
           <p>
@@ -125,8 +128,6 @@ const MainPage = () => {
             journey.
           </p>
 
-          <h3>Similar Apps</h3>
-          <p>Insert text here</p>
           <h2>Personas</h2>
           <p>
             Based on our research, three personas were created that we believe
@@ -268,16 +269,29 @@ const MainPage = () => {
           </p>
           <img className="inspo" src={logo} alt="App Logo" />
 
-          <h2>Sketches and Mockup</h2>
-          <p>Insert text here</p>
+          <h2>Mockup</h2>
+          <img className="inspo" src={mockup1} alt="Mockup 1" />
+          <img className="inspo" src={mockup2} alt="Mockup 2" />
 
           <h2>Final Design</h2>
           <p>Insert text here</p>
 
-          <h2>Onboarding</h2>
+          <h3>Onboarding Pages</h3>
           <p>Insert text here</p>
 
-          <h2>Demo</h2>
+          <h3>Home Page</h3>
+          <p>Insert text here</p>
+
+          <h3>Exercise Library</h3>
+          <p>Insert text here</p>
+
+          <h3>Progress Tracking</h3>
+          <p>Insert text here</p>
+
+          <h3>Community Support</h3>
+          <p>Insert text here</p>
+
+          <h3>Demo</h3>
           <p>Insert text here</p>
 
           <h2>Conclusion</h2>
