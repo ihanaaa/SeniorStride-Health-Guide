@@ -261,6 +261,10 @@ const MainPage = () => {
             <img className="inspo" src={inspo1} alt={inspo1} />
             <img className="inspo" src={inspo2} alt={inspo2} />
             <img className="inspo" src={inspo3} alt={inspo3} />
+          </div>
+          <br />
+          <br />
+          <div className="box">
             <h3>Colour Palette</h3>
             <p>
               The color palette, featuring shades of deep blue, soft pink,
@@ -272,6 +276,10 @@ const MainPage = () => {
               and empowerment for users of all ages.
             </p>
             <img className="inspo" src={palette} alt="Colour Palette" />
+          </div>
+          <br />
+          <br />
+          <div className="box">
             <h3>Typography</h3>
             <p>
               When designing apps for the elderly demographic, prioritizing
@@ -288,6 +296,10 @@ const MainPage = () => {
               approachable design which makes it well-suited for communicating
               information clearly to elderly users.
             </p>
+          </div>
+          <br />
+          <br />
+          <div className="box">
             <h3>App Logo</h3>
             <p>
               The app logo features a running man in a warm, energetic tone,
