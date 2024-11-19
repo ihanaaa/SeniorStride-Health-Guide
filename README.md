@@ -1,6 +1,5 @@
-
+### link: https://ihanaaa.github.io/SeniorStride-Health-Guide/
 ### Ihana Fahmy - 40209686 | Muiz Madadi - 40226708 | Shamma Sarah Markis - 40211998
-
 ## Project in SOEN 357 - User Interaction Design
 ### Project task:
 The Quebec Government has hired your design company to design an app to support elderly users’
